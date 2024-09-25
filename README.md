@@ -4,3 +4,5 @@ Awarded Gold Medal on International Invention Competition for Young Moslem Scien
 Detecting halal meat from images, by classifying either it is a pork or beef meat.
 
 Datasets obtained from scraping images on DuckDuckGo, with "raw pork" and "raw beef" as keywords.
+
+![alttext](https://github.com/nailanabq/HalalMeat/blob/main/gambar_augmentasi.PNG)
